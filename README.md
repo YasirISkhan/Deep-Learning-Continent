@@ -16,14 +16,14 @@ Because learning deep learning feels like exploring a new continent — every co
 
 | Category                      | Topics Covered                                            | Status |
 |------------------------------|-----------------------------------------------------------|--------|
-| 🔹 Fundamentals              | Perceptron, Activation Functions, Losses                 | 🔄 In Progress |
-| 🔹 Neural Networks Basics    | Forward/Backward Prop, Weight Init, Optimizers           | 🔄 In Progress |
-| 🔹 CNNs                      | Image Classification, Filters, Pooling, Architectures    | ⏳ Coming Soon |
-| 🔹 RNNs/LSTMs                | Sequence Modeling, Time-Series, NLP                      | ⏳ Coming Soon |
-| 🔹 Advanced Topics           | Attention, Transformers, GANs                            | ⏳ Coming Soon |
-| 🔹 Projects & Experiments    | MNIST, CIFAR-10, Custom Datasets, Augmentation           | ⏳ Coming Soon |
+| 🔹 Fundamentals              | Perceptron, Activation Functions, Losses                 | ✅ Done |
+| 🔹 Neural Networks Basics    | Forward/Backward Prop, Weight Init, Optimizers           | ✅ Done |
+| 🔹 CNNs                      | Image Classification, Filters, Pooling, Architectures    | ✅ Done |
+| 🔹 RNNs/LSTMs                | Sequence Modeling, Time-Series, NLP                      | 🔄 In Progress |
+| 🔹 Advanced Topics           | Attention, Transformers, GANs                            | 🔄 In Progress |
+| 🔹 Projects & Experiments    | MNIST, CIFAR-10, Custom Datasets, Augmentation           | ✅ Done |
 | 🔹 Papers & Reproductions    | Key Deep Learning Papers with Code                       | ⏳ Coming Soon |
-| 🔹 Tools & Tips              | PyTorch, TensorFlow, Weights & Biases, Visualizations    | ⏳ Coming Soon |
+| 🔹 Tools & Tips              | PyTorch, TensorFlow, Weights & Biases, Visualizations    | ✅ Done |
 
 ---
 
